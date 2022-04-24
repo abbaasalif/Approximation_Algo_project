@@ -1,0 +1,920 @@
+Number of cliques =  7
+Greedy FD =  0.375  ILP FD =  0.375
+Time Greedy =  0.0002  ILP =  0.0296
+---------------------
+Number of cliques =  6
+Greedy FD =  0.42857142857142855  ILP FD =  0.42857142857142855
+Time Greedy =  0.0001  ILP =  0.0007
+---------------------
+Number of cliques =  29
+Greedy FD =  0.2  ILP FD =  0.2
+Time Greedy =  0.0009  ILP =  0.0049
+---------------------
+Number of cliques =  10
+Greedy FD =  0.5454545454545454  ILP FD =  0.5454545454545454
+Time Greedy =  0.0002  ILP =  0.0013
+---------------------
+Number of cliques =  33
+Greedy FD =  0.17647058823529413  ILP FD =  0.17647058823529413
+Time Greedy =  0.0012  ILP =  0.0062
+---------------------
+Number of cliques =  29
+Greedy FD =  0.16666666666666666  ILP FD =  0.16666666666666666
+Time Greedy =  0.0009  ILP =  0.0049
+---------------------
+Number of cliques =  49
+Greedy FD =  0.14  ILP FD =  0.14
+Time Greedy =  0.0025  ILP =  0.0093
+---------------------
+Number of cliques =  24
+Greedy FD =  0.2  ILP FD =  0.2
+Time Greedy =  0.0007  ILP =  0.0039
+---------------------
+Number of cliques =  33
+Greedy FD =  0.17647058823529413  ILP FD =  0.17647058823529413
+Time Greedy =  0.0012  ILP =  0.006
+---------------------
+Number of cliques =  19
+Greedy FD =  0.2  ILP FD =  0.2
+Time Greedy =  0.0004  ILP =  0.003
+---------------------
+Number of cliques =  42
+Greedy FD =  0.11627906976744186  ILP FD =  0.11627906976744186
+Time Greedy =  0.0018  ILP =  0.0072
+---------------------
+Number of cliques =  35
+Greedy FD =  0.16666666666666666  ILP FD =  0.16666666666666666
+Time Greedy =  0.0013  ILP =  0.0061
+---------------------
+Number of cliques =  22
+Greedy FD =  0.21739130434782608  ILP FD =  0.21739130434782608
+Time Greedy =  0.0007  ILP =  0.0039
+---------------------
+Number of cliques =  28
+Greedy FD =  0.1724137931034483  ILP FD =  0.1724137931034483
+Time Greedy =  0.0009  ILP =  0.0048
+---------------------
+Number of cliques =  13
+Greedy FD =  0.2857142857142857  ILP FD =  0.2857142857142857
+Time Greedy =  0.0002  ILP =  0.002
+---------------------
+Number of cliques =  28
+Greedy FD =  0.1724137931034483  ILP FD =  0.1724137931034483
+Time Greedy =  0.0009  ILP =  0.0045
+---------------------
+Number of cliques =  45
+Greedy FD =  0.17391304347826086  ILP FD =  0.17391304347826086
+Time Greedy =  0.0021  ILP =  0.0078
+---------------------
+Number of cliques =  15
+Greedy FD =  0.3125  ILP FD =  0.3125
+Time Greedy =  0.0003  ILP =  0.0021
+---------------------
+Number of cliques =  15
+Greedy FD =  0.3125  ILP FD =  0.3125
+Time Greedy =  0.0003  ILP =  0.0025
+---------------------
+Number of cliques =  32
+Greedy FD =  0.12121212121212122  ILP FD =  0.12121212121212122
+Time Greedy =  0.0011  ILP =  0.0058
+---------------------
+Number of cliques =  1
+Greedy FD =  0.5  ILP FD =  0.5
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  13
+Greedy FD =  0.21428571428571427  ILP FD =  0.21428571428571427
+Time Greedy =  0.0003  ILP =  0.0018
+---------------------
+Number of cliques =  42
+Greedy FD =  0.16279069767441862  ILP FD =  0.16279069767441862
+Time Greedy =  0.0018  ILP =  0.0067
+---------------------
+Number of cliques =  33
+Greedy FD =  0.20588235294117646  ILP FD =  0.20588235294117646
+Time Greedy =  0.0012  ILP =  0.0049
+---------------------
+Number of cliques =  3
+Greedy FD =  0.5  ILP FD =  0.5
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  27
+Greedy FD =  0.25  ILP FD =  0.25
+Time Greedy =  0.0008  ILP =  0.0033
+---------------------
+Number of cliques =  2
+Greedy FD =  0.6666666666666666  ILP FD =  0.6666666666666666
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  16
+Greedy FD =  0.4117647058823529  ILP FD =  0.4117647058823529
+Time Greedy =  0.0003  ILP =  0.0029
+---------------------
+Number of cliques =  50
+Greedy FD =  0.13725490196078433  ILP FD =  0.13725490196078433
+Time Greedy =  0.0036  ILP =  0.008
+---------------------
+Number of cliques =  23
+Greedy FD =  0.16666666666666666  ILP FD =  0.16666666666666666
+Time Greedy =  0.0016  ILP =  0.0091
+---------------------
+Number of cliques =  15
+Greedy FD =  0.375  ILP FD =  0.375
+Time Greedy =  0.0003  ILP =  0.0029
+---------------------
+Number of cliques =  21
+Greedy FD =  0.3181818181818182  ILP FD =  0.3181818181818182
+Time Greedy =  0.0005  ILP =  0.003
+---------------------
+Number of cliques =  33
+Greedy FD =  0.17647058823529413  ILP FD =  0.17647058823529413
+Time Greedy =  0.0012  ILP =  0.0052
+---------------------
+Number of cliques =  33
+Greedy FD =  0.17647058823529413  ILP FD =  0.17647058823529413
+Time Greedy =  0.0012  ILP =  0.0058
+---------------------
+Number of cliques =  34
+Greedy FD =  0.2  ILP FD =  0.2
+Time Greedy =  0.0012  ILP =  0.0058
+---------------------
+Number of cliques =  38
+Greedy FD =  0.1282051282051282  ILP FD =  0.1282051282051282
+Time Greedy =  0.0015  ILP =  0.0073
+---------------------
+Number of cliques =  31
+Greedy FD =  0.15625  ILP FD =  0.15625
+Time Greedy =  0.0012  ILP =  0.004
+---------------------
+Number of cliques =  31
+Greedy FD =  0.1875  ILP FD =  0.1875
+Time Greedy =  0.001  ILP =  0.0087
+---------------------
+Number of cliques =  15
+Greedy FD =  0.375  ILP FD =  0.375
+Time Greedy =  0.0003  ILP =  0.003
+---------------------
+Number of cliques =  5
+Greedy FD =  0.3333333333333333  ILP FD =  0.3333333333333333
+Time Greedy =  0.0001  ILP =  0.0
+---------------------
+Number of cliques =  23
+Greedy FD =  0.2916666666666667  ILP FD =  0.2916666666666667
+Time Greedy =  0.0006  ILP =  0.0041
+---------------------
+Number of cliques =  32
+Greedy FD =  0.18181818181818182  ILP FD =  0.18181818181818182
+Time Greedy =  0.0011  ILP =  0.0048
+---------------------
+Number of cliques =  19
+Greedy FD =  0.25  ILP FD =  0.25
+Time Greedy =  0.0006  ILP =  0.004
+---------------------
+Number of cliques =  46
+Greedy FD =  0.1276595744680851  ILP FD =  0.1276595744680851
+Time Greedy =  0.0022  ILP =  0.0085
+---------------------
+Number of cliques =  24
+Greedy FD =  0.24  ILP FD =  0.24
+Time Greedy =  0.0007  ILP =  0.0047
+---------------------
+Number of cliques =  27
+Greedy FD =  0.17857142857142858  ILP FD =  0.17857142857142858
+Time Greedy =  0.0008  ILP =  0.0033
+---------------------
+Number of cliques =  20
+Greedy FD =  0.3333333333333333  ILP FD =  0.3333333333333333
+Time Greedy =  0.0005  ILP =  0.0053
+---------------------
+Number of cliques =  12
+Greedy FD =  0.23076923076923078  ILP FD =  0.23076923076923078
+Time Greedy =  0.0002  ILP =  0.0022
+---------------------
+Number of cliques =  1
+Greedy FD =  1.0  ILP FD =  1.0
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  26
+Greedy FD =  0.14814814814814814  ILP FD =  0.14814814814814814
+Time Greedy =  0.0008  ILP =  0.0039
+---------------------
+Number of cliques =  4
+Greedy FD =  0.6  ILP FD =  0.6
+Time Greedy =  0.0  ILP =  0.0006
+---------------------
+Number of cliques =  3
+Greedy FD =  0.5  ILP FD =  0.5
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  49
+Greedy FD =  0.18  ILP FD =  0.18
+Time Greedy =  0.0025  ILP =  0.0087
+---------------------
+Number of cliques =  38
+Greedy FD =  0.15384615384615385  ILP FD =  0.15384615384615385
+Time Greedy =  0.0015  ILP =  0.0067
+---------------------
+Number of cliques =  13
+Greedy FD =  0.2857142857142857  ILP FD =  0.2857142857142857
+Time Greedy =  0.0002  ILP =  0.0021
+---------------------
+Number of cliques =  29
+Greedy FD =  0.16666666666666666  ILP FD =  0.16666666666666666
+Time Greedy =  0.0009  ILP =  0.0051
+---------------------
+Number of cliques =  9
+Greedy FD =  0.7  ILP FD =  0.7
+Time Greedy =  0.0001  ILP =  0.0015
+---------------------
+Number of cliques =  23
+Greedy FD =  0.125  ILP FD =  0.125
+Time Greedy =  0.0006  ILP =  0.003
+---------------------
+Number of cliques =  15
+Greedy FD =  0.3125  ILP FD =  0.3125
+Time Greedy =  0.0003  ILP =  0.0027
+---------------------
+Number of cliques =  6
+Greedy FD =  0.5714285714285714  ILP FD =  0.5714285714285714
+Time Greedy =  0.0001  ILP =  0.0008
+---------------------
+Number of cliques =  11
+Greedy FD =  0.25  ILP FD =  0.25
+Time Greedy =  0.0002  ILP =  0.0013
+---------------------
+Number of cliques =  10
+Greedy FD =  0.2727272727272727  ILP FD =  0.2727272727272727
+Time Greedy =  0.0002  ILP =  0.0017
+---------------------
+Number of cliques =  4
+Greedy FD =  0.6  ILP FD =  0.6
+Time Greedy =  0.0  ILP =  0.0006
+---------------------
+Number of cliques =  29
+Greedy FD =  0.23333333333333334  ILP FD =  0.23333333333333334
+Time Greedy =  0.0009  ILP =  0.0048
+---------------------
+Number of cliques =  23
+Greedy FD =  0.25  ILP FD =  0.25
+Time Greedy =  0.0006  ILP =  0.0042
+---------------------
+Number of cliques =  5
+Greedy FD =  0.5  ILP FD =  0.5
+Time Greedy =  0.0001  ILP =  0.0006
+---------------------
+Number of cliques =  19
+Greedy FD =  0.2  ILP FD =  0.2
+Time Greedy =  0.0004  ILP =  0.0026
+---------------------
+Number of cliques =  9
+Greedy FD =  0.3  ILP FD =  0.3
+Time Greedy =  0.0001  ILP =  0.0012
+---------------------
+Number of cliques =  22
+Greedy FD =  0.13043478260869565  ILP FD =  0.13043478260869565
+Time Greedy =  0.0006  ILP =  0.0042
+---------------------
+Number of cliques =  10
+Greedy FD =  0.5454545454545454  ILP FD =  0.5454545454545454
+Time Greedy =  0.0002  ILP =  0.0017
+---------------------
+Number of cliques =  7
+Greedy FD =  0.375  ILP FD =  0.375
+Time Greedy =  0.0001  ILP =  0.0011
+---------------------
+Number of cliques =  38
+Greedy FD =  0.20512820512820512  ILP FD =  0.20512820512820512
+Time Greedy =  0.0015  ILP =  0.007
+---------------------
+Number of cliques =  10
+Greedy FD =  0.36363636363636365  ILP FD =  0.36363636363636365
+Time Greedy =  0.0002  ILP =  0.0019
+---------------------
+Number of cliques =  46
+Greedy FD =  0.14893617021276595  ILP FD =  0.14893617021276595
+Time Greedy =  0.0021  ILP =  0.0094
+---------------------
+Number of cliques =  11
+Greedy FD =  0.4166666666666667  ILP FD =  0.4166666666666667
+Time Greedy =  0.0002  ILP =  0.0019
+---------------------
+Number of cliques =  10
+Greedy FD =  0.36363636363636365  ILP FD =  0.36363636363636365
+Time Greedy =  0.0002  ILP =  0.0018
+---------------------
+Number of cliques =  10
+Greedy FD =  0.2727272727272727  ILP FD =  0.2727272727272727
+Time Greedy =  0.0001  ILP =  0.0016
+---------------------
+Number of cliques =  13
+Greedy FD =  0.35714285714285715  ILP FD =  0.35714285714285715
+Time Greedy =  0.0002  ILP =  0.0029
+---------------------
+Number of cliques =  14
+Greedy FD =  0.2  ILP FD =  0.2
+Time Greedy =  0.0003  ILP =  0.0022
+---------------------
+Number of cliques =  45
+Greedy FD =  0.1956521739130435  ILP FD =  0.1956521739130435
+Time Greedy =  0.002  ILP =  0.0084
+---------------------
+Number of cliques =  42
+Greedy FD =  0.11627906976744186  ILP FD =  0.11627906976744186
+Time Greedy =  0.0018  ILP =  0.0067
+---------------------
+Number of cliques =  23
+Greedy FD =  0.16666666666666666  ILP FD =  0.16666666666666666
+Time Greedy =  0.0006  ILP =  0.0033
+---------------------
+Number of cliques =  4
+Greedy FD =  0.4  ILP FD =  0.4
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  9
+Greedy FD =  0.5  ILP FD =  0.5
+Time Greedy =  0.0001  ILP =  0.0019
+---------------------
+Number of cliques =  37
+Greedy FD =  0.15789473684210525  ILP FD =  0.15789473684210525
+Time Greedy =  0.0014  ILP =  0.0066
+---------------------
+Number of cliques =  1
+Greedy FD =  0.5  ILP FD =  0.5
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  19
+Greedy FD =  0.25  ILP FD =  0.25
+Time Greedy =  0.0004  ILP =  0.0027
+---------------------
+Number of cliques =  24
+Greedy FD =  0.16  ILP FD =  0.16
+Time Greedy =  0.0006  ILP =  0.0046
+---------------------
+Number of cliques =  38
+Greedy FD =  0.15384615384615385  ILP FD =  0.15384615384615385
+Time Greedy =  0.0015  ILP =  0.0058
+---------------------
+Number of cliques =  41
+Greedy FD =  0.19047619047619047  ILP FD =  0.19047619047619047
+Time Greedy =  0.0018  ILP =  0.0083
+---------------------
+Number of cliques =  26
+Greedy FD =  0.3333333333333333  ILP FD =  0.3333333333333333
+Time Greedy =  0.0008  ILP =  0.004
+---------------------
+Number of cliques =  29
+Greedy FD =  0.16666666666666666  ILP FD =  0.16666666666666666
+Time Greedy =  0.0009  ILP =  0.005
+---------------------
+Number of cliques =  9
+Greedy FD =  0.3  ILP FD =  0.3
+Time Greedy =  0.0001  ILP =  0.0012
+---------------------
+Number of cliques =  48
+Greedy FD =  0.1836734693877551  ILP FD =  0.1836734693877551
+Time Greedy =  0.0023  ILP =  0.0086
+---------------------
+Number of cliques =  28
+Greedy FD =  0.1724137931034483  ILP FD =  0.1724137931034483
+Time Greedy =  0.0009  ILP =  0.0051
+---------------------
+Number of cliques =  1
+Greedy FD =  1.0  ILP FD =  1.0
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  14
+Greedy FD =  0.3333333333333333  ILP FD =  0.3333333333333333
+Time Greedy =  0.0003  ILP =  0.0022
+---------------------
+Number of cliques =  1
+Greedy FD =  0.5  ILP FD =  0.5
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  14
+Greedy FD =  0.3333333333333333  ILP FD =  0.3333333333333333
+Time Greedy =  0.0003  ILP =  0.0021
+---------------------
+Number of cliques =  25
+Greedy FD =  0.19230769230769232  ILP FD =  0.19230769230769232
+Time Greedy =  0.0007  ILP =  0.0037
+---------------------
+Number of cliques =  328
+Greedy FD =  0.0243161094224924  ILP FD =  0.0243161094224924
+Time Greedy =  0.1052  ILP =  0.0589
+---------------------
+Number of cliques =  253
+Greedy FD =  0.03937007874015748  ILP FD =  0.03937007874015748
+Time Greedy =  0.0621  ILP =  0.0456
+---------------------
+Number of cliques =  330
+Greedy FD =  0.030211480362537766  ILP FD =  0.030211480362537766
+Time Greedy =  0.1065  ILP =  0.0637
+---------------------
+Number of cliques =  467
+Greedy FD =  0.021367521367521368  ILP FD =  0.021367521367521368
+Time Greedy =  0.2108  ILP =  0.0865
+---------------------
+Number of cliques =  100
+Greedy FD =  0.07920792079207921  ILP FD =  0.07920792079207921
+Time Greedy =  0.0109  ILP =  0.0181
+---------------------
+Number of cliques =  205
+Greedy FD =  0.043689320388349516  ILP FD =  0.043689320388349516
+Time Greedy =  0.0425  ILP =  0.038
+---------------------
+Number of cliques =  212
+Greedy FD =  0.046948356807511735  ILP FD =  0.046948356807511735
+Time Greedy =  0.045  ILP =  0.0371
+---------------------
+Number of cliques =  149
+Greedy FD =  0.06  ILP FD =  0.06
+Time Greedy =  0.0227  ILP =  0.0268
+---------------------
+Number of cliques =  227
+Greedy FD =  0.039473684210526314  ILP FD =  0.039473684210526314
+Time Greedy =  0.0503  ILP =  0.0363
+---------------------
+Number of cliques =  194
+Greedy FD =  0.05641025641025641  ILP FD =  0.05641025641025641
+Time Greedy =  0.0361  ILP =  0.0362
+---------------------
+Number of cliques =  153
+Greedy FD =  0.09740259740259741  ILP FD =  0.09740259740259741
+Time Greedy =  0.0225  ILP =  0.0293
+---------------------
+Number of cliques =  326
+Greedy FD =  0.027522935779816515  ILP FD =  0.027522935779816515
+Time Greedy =  0.1021  ILP =  0.059
+---------------------
+Number of cliques =  428
+Greedy FD =  0.023310023310023312  ILP FD =  0.023310023310023312
+Time Greedy =  0.1746  ILP =  0.0802
+---------------------
+Number of cliques =  336
+Greedy FD =  0.02967359050445104  ILP FD =  0.02967359050445104
+Time Greedy =  0.1093  ILP =  0.0581
+---------------------
+Number of cliques =  139
+Greedy FD =  0.05714285714285714  ILP FD =  0.05714285714285714
+Time Greedy =  0.0188  ILP =  0.0226
+---------------------
+Number of cliques =  125
+Greedy FD =  0.07142857142857142  ILP FD =  0.07142857142857142
+Time Greedy =  0.0157  ILP =  0.0258
+---------------------
+Number of cliques =  360
+Greedy FD =  0.0221606648199446  ILP FD =  0.0221606648199446
+Time Greedy =  0.1267  ILP =  0.0662
+---------------------
+Number of cliques =  216
+Greedy FD =  0.027649769585253458  ILP FD =  0.027649769585253458
+Time Greedy =  0.0449  ILP =  0.0373
+---------------------
+Number of cliques =  88
+Greedy FD =  0.07865168539325842  ILP FD =  0.07865168539325842
+Time Greedy =  0.0075  ILP =  0.0163
+---------------------
+Number of cliques =  8
+Greedy FD =  0.4444444444444444  ILP FD =  0.4444444444444444
+Time Greedy =  0.0001  ILP =  0.0014
+---------------------
+Number of cliques =  192
+Greedy FD =  0.03626943005181347  ILP FD =  0.03626943005181347
+Time Greedy =  0.0354  ILP =  0.0357
+---------------------
+Number of cliques =  282
+Greedy FD =  0.028268551236749116  ILP FD =  0.028268551236749116
+Time Greedy =  0.0743  ILP =  0.0497
+---------------------
+Number of cliques =  85
+Greedy FD =  0.10465116279069768  ILP FD =  0.10465116279069768
+Time Greedy =  0.0069  ILP =  0.0157
+---------------------
+Number of cliques =  245
+Greedy FD =  0.032520325203252036  ILP FD =  0.032520325203252036
+Time Greedy =  0.0613  ILP =  0.0456
+---------------------
+Number of cliques =  155
+Greedy FD =  0.05128205128205128  ILP FD =  0.05128205128205128
+Time Greedy =  0.0249  ILP =  0.0305
+---------------------
+Number of cliques =  2
+Greedy FD =  0.6666666666666666  ILP FD =  0.6666666666666666
+Time Greedy =  0.0  ILP =  0.0
+---------------------
+Number of cliques =  55
+Greedy FD =  0.10714285714285714  ILP FD =  0.10714285714285714
+Time Greedy =  0.0033  ILP =  0.0097
+---------------------
+Number of cliques =  96
+Greedy FD =  0.05154639175257732  ILP FD =  0.05154639175257732
+Time Greedy =  0.0093  ILP =  0.018
+---------------------
+Number of cliques =  391
+Greedy FD =  0.025510204081632654  ILP FD =  0.025510204081632654
+Time Greedy =  0.1465  ILP =  0.0687
+---------------------
+Number of cliques =  266
+Greedy FD =  0.0449438202247191  ILP FD =  0.0449438202247191
+Time Greedy =  0.0679  ILP =  0.0509
+---------------------
+Number of cliques =  416
+Greedy FD =  0.02877697841726619  ILP FD =  0.02877697841726619
+Time Greedy =  0.1706  ILP =  0.0757
+---------------------
+Number of cliques =  221
+Greedy FD =  0.04054054054054054  ILP FD =  0.04054054054054054
+Time Greedy =  0.0471  ILP =  0.0359
+---------------------
+Number of cliques =  204
+Greedy FD =  0.03414634146341464  ILP FD =  0.03414634146341464
+Time Greedy =  0.0399  ILP =  0.0362
+---------------------
+Number of cliques =  309
+Greedy FD =  0.02903225806451613  ILP FD =  0.02903225806451613
+Time Greedy =  0.0918  ILP =  0.0555
+---------------------
+Number of cliques =  453
+Greedy FD =  0.01762114537444934  ILP FD =  0.01762114537444934
+Time Greedy =  0.2019  ILP =  0.0841
+---------------------
+Number of cliques =  272
+Greedy FD =  0.040293040293040296  ILP FD =  0.040293040293040296
+Time Greedy =  0.0705  ILP =  0.0482
+---------------------
+Number of cliques =  150
+Greedy FD =  0.059602649006622516  ILP FD =  0.059602649006622516
+Time Greedy =  0.0226  ILP =  0.0275
+---------------------
+Number of cliques =  320
+Greedy FD =  0.028037383177570093  ILP FD =  0.028037383177570093
+Time Greedy =  0.0979  ILP =  0.0594
+---------------------
+Number of cliques =  151
+Greedy FD =  0.046052631578947366  ILP FD =  0.046052631578947366
+Time Greedy =  0.0218  ILP =  0.0263
+---------------------
+Number of cliques =  239
+Greedy FD =  0.03333333333333333  ILP FD =  0.03333333333333333
+Time Greedy =  0.054  ILP =  0.0505
+---------------------
+Number of cliques =  230
+Greedy FD =  0.030303030303030304  ILP FD =  0.030303030303030304
+Time Greedy =  0.0544  ILP =  0.047
+---------------------
+Number of cliques =  70
+Greedy FD =  0.07042253521126761  ILP FD =  0.07042253521126761
+Time Greedy =  0.0049  ILP =  0.0125
+---------------------
+Number of cliques =  299
+Greedy FD =  0.03333333333333333  ILP FD =  0.03333333333333333
+Time Greedy =  0.0855  ILP =  0.0553
+---------------------
+Number of cliques =  242
+Greedy FD =  0.0411522633744856  ILP FD =  0.0411522633744856
+Time Greedy =  0.0577  ILP =  0.0452
+---------------------
+Number of cliques =  407
+Greedy FD =  0.0196078431372549  ILP FD =  0.0196078431372549
+Time Greedy =  0.1631  ILP =  0.0772
+---------------------
+Number of cliques =  162
+Greedy FD =  0.04294478527607362  ILP FD =  0.04294478527607362
+Time Greedy =  0.0261  ILP =  0.0269
+---------------------
+Number of cliques =  279
+Greedy FD =  0.03214285714285714  ILP FD =  0.03214285714285714
+Time Greedy =  0.0747  ILP =  0.0507
+---------------------
+Number of cliques =  343
+Greedy FD =  0.029069767441860465  ILP FD =  0.029069767441860465
+Time Greedy =  0.114  ILP =  0.064
+---------------------
+Number of cliques =  248
+Greedy FD =  0.04819277108433735  ILP FD =  0.04819277108433735
+Time Greedy =  0.0614  ILP =  0.0472
+---------------------
+Number of cliques =  7
+Greedy FD =  0.375  ILP FD =  0.375
+Time Greedy =  0.0001  ILP =  0.0007
+---------------------
+Number of cliques =  313
+Greedy FD =  0.025477707006369428  ILP FD =  0.025477707006369428
+Time Greedy =  0.097  ILP =  0.0603
+---------------------
+Number of cliques =  387
+Greedy FD =  0.02577319587628866  ILP FD =  0.02577319587628866
+Time Greedy =  0.1467  ILP =  0.0736
+---------------------
+Number of cliques =  200
+Greedy FD =  0.04975124378109453  ILP FD =  0.04975124378109453
+Time Greedy =  0.0389  ILP =  0.0377
+---------------------
+Number of cliques =  236
+Greedy FD =  0.03375527426160337  ILP FD =  0.03375527426160337
+Time Greedy =  0.0559  ILP =  0.045
+---------------------
+Number of cliques =  354
+Greedy FD =  0.03380281690140845  ILP FD =  0.03380281690140845
+Time Greedy =  0.1241  ILP =  0.0662
+---------------------
+Number of cliques =  369
+Greedy FD =  0.021621621621621623  ILP FD =  0.021621621621621623
+Time Greedy =  0.1319  ILP =  0.0695
+---------------------
+Number of cliques =  99
+Greedy FD =  0.06  ILP FD =  0.06
+Time Greedy =  0.0097  ILP =  0.02
+---------------------
+Number of cliques =  219
+Greedy FD =  0.05454545454545454  ILP FD =  0.05454545454545454
+Time Greedy =  0.047  ILP =  0.043
+---------------------
+Number of cliques =  375
+Greedy FD =  0.018617021276595744  ILP FD =  0.018617021276595744
+Time Greedy =  0.1386  ILP =  0.073
+---------------------
+Number of cliques =  429
+Greedy FD =  0.020930232558139535  ILP FD =  0.020930232558139535
+Time Greedy =  0.1781  ILP =  0.0805
+---------------------
+Number of cliques =  373
+Greedy FD =  0.02406417112299465  ILP FD =  0.02406417112299465
+Time Greedy =  0.137  ILP =  0.0686
+---------------------
+Number of cliques =  363
+Greedy FD =  0.02197802197802198  ILP FD =  0.02197802197802198
+Time Greedy =  0.1245  ILP =  0.0709
+---------------------
+Number of cliques =  368
+Greedy FD =  0.02168021680216802  ILP FD =  0.02168021680216802
+Time Greedy =  0.1332  ILP =  0.068
+---------------------
+Number of cliques =  168
+Greedy FD =  0.05325443786982249  ILP FD =  0.05325443786982249
+Time Greedy =  0.0278  ILP =  0.0337
+---------------------
+Number of cliques =  273
+Greedy FD =  0.040145985401459854  ILP FD =  0.040145985401459854
+Time Greedy =  0.0707  ILP =  0.0466
+---------------------
+Number of cliques =  400
+Greedy FD =  0.029925187032418952  ILP FD =  0.029925187032418952
+Time Greedy =  0.1535  ILP =  0.0682
+---------------------
+Number of cliques =  157
+Greedy FD =  0.05063291139240506  ILP FD =  0.05063291139240506
+Time Greedy =  0.0244  ILP =  0.0284
+---------------------
+Number of cliques =  326
+Greedy FD =  0.024464831804281346  ILP FD =  0.024464831804281346
+Time Greedy =  0.103  ILP =  0.0587
+---------------------
+Number of cliques =  206
+Greedy FD =  0.03864734299516908  ILP FD =  0.03864734299516908
+Time Greedy =  0.0413  ILP =  0.039
+---------------------
+Number of cliques =  321
+Greedy FD =  0.031055900621118012  ILP FD =  0.031055900621118012
+Time Greedy =  0.0996  ILP =  0.0575
+---------------------
+Number of cliques =  242
+Greedy FD =  0.04938271604938271  ILP FD =  0.04938271604938271
+Time Greedy =  0.0568  ILP =  0.0448
+---------------------
+Number of cliques =  281
+Greedy FD =  0.02127659574468085  ILP FD =  0.02127659574468085
+Time Greedy =  0.0756  ILP =  0.0488
+---------------------
+Number of cliques =  106
+Greedy FD =  0.056074766355140186  ILP FD =  0.056074766355140186
+Time Greedy =  0.0109  ILP =  0.02
+---------------------
+Number of cliques =  235
+Greedy FD =  0.029661016949152543  ILP FD =  0.029661016949152543
+Time Greedy =  0.053  ILP =  0.0406
+---------------------
+Number of cliques =  345
+Greedy FD =  0.02601156069364162  ILP FD =  0.02601156069364162
+Time Greedy =  0.1139  ILP =  0.067
+---------------------
+Number of cliques =  315
+Greedy FD =  0.03481012658227848  ILP FD =  0.03481012658227848
+Time Greedy =  0.0957  ILP =  0.0552
+---------------------
+Number of cliques =  52
+Greedy FD =  0.16981132075471697  ILP FD =  0.16981132075471697
+Time Greedy =  0.0028  ILP =  0.0088
+---------------------
+Number of cliques =  313
+Greedy FD =  0.03184713375796178  ILP FD =  0.03184713375796178
+Time Greedy =  0.0984  ILP =  0.0616
+---------------------
+Number of cliques =  94
+Greedy FD =  0.07368421052631578  ILP FD =  0.07368421052631578
+Time Greedy =  0.0096  ILP =  0.0193
+---------------------
+Number of cliques =  36
+Greedy FD =  0.21621621621621623  ILP FD =  0.21621621621621623
+Time Greedy =  0.0015  ILP =  0.0062
+---------------------
+Number of cliques =  177
+Greedy FD =  0.06179775280898876  ILP FD =  0.06179775280898876
+Time Greedy =  0.0302  ILP =  0.0321
+---------------------
+Number of cliques =  449
+Greedy FD =  0.02666666666666667  ILP FD =  0.02666666666666667
+Time Greedy =  0.1899  ILP =  0.081
+---------------------
+Number of cliques =  94
+Greedy FD =  0.1368421052631579  ILP FD =  0.1368421052631579
+Time Greedy =  0.0085  ILP =  0.02
+---------------------
+Number of cliques =  40
+Greedy FD =  0.17073170731707318  ILP FD =  0.17073170731707318
+Time Greedy =  0.0017  ILP =  0.0068
+---------------------
+Number of cliques =  50
+Greedy FD =  0.09803921568627451  ILP FD =  0.09803921568627451
+Time Greedy =  0.0027  ILP =  0.0086
+---------------------
+Number of cliques =  75
+Greedy FD =  0.10526315789473684  ILP FD =  0.10526315789473684
+Time Greedy =  0.0056  ILP =  0.0139
+---------------------
+Number of cliques =  342
+Greedy FD =  0.029154518950437316  ILP FD =  0.029154518950437316
+Time Greedy =  0.1123  ILP =  0.0659
+---------------------
+Number of cliques =  63
+Greedy FD =  0.09375  ILP FD =  0.09375
+Time Greedy =  0.004  ILP =  0.0112
+---------------------
+Number of cliques =  301
+Greedy FD =  0.026490066225165563  ILP FD =  0.026490066225165563
+Time Greedy =  0.0886  ILP =  0.0515
+---------------------
+Number of cliques =  219
+Greedy FD =  0.04090909090909091  ILP FD =  0.04090909090909091
+Time Greedy =  0.0466  ILP =  0.041
+---------------------
+Number of cliques =  306
+Greedy FD =  0.026058631921824105  ILP FD =  0.026058631921824105
+Time Greedy =  0.091  ILP =  0.053
+---------------------
+Number of cliques =  396
+Greedy FD =  0.027707808564231738  ILP FD =  0.027707808564231738
+Time Greedy =  0.1487  ILP =  0.0714
+---------------------
+Number of cliques =  28
+Greedy FD =  0.27586206896551724  ILP FD =  0.27586206896551724
+Time Greedy =  0.0009  ILP =  0.005
+---------------------
+Number of cliques =  149
+Greedy FD =  0.04666666666666667  ILP FD =  0.04666666666666667
+Time Greedy =  0.0216  ILP =  0.0255
+---------------------
+Number of cliques =  190
+Greedy FD =  0.03664921465968586  ILP FD =  0.03664921465968586
+Time Greedy =  0.0349  ILP =  0.0331
+---------------------
+Number of cliques =  87
+Greedy FD =  0.13636363636363635  ILP FD =  0.13636363636363635
+Time Greedy =  0.0075  ILP =  0.0184
+---------------------
+Number of cliques =  30
+Greedy FD =  0.16129032258064516  ILP FD =  0.16129032258064516
+Time Greedy =  0.001  ILP =  0.0044
+---------------------
+Number of cliques =  349
+Greedy FD =  0.025714285714285714  ILP FD =  0.025714285714285714
+Time Greedy =  0.12  ILP =  0.0618
+---------------------
+Number of cliques =  444
+Greedy FD =  0.02696629213483146  ILP FD =  0.02696629213483146
+Time Greedy =  0.1845  ILP =  0.0777
+---------------------
+Number of cliques =  313
+Greedy FD =  0.025477707006369428  ILP FD =  0.025477707006369428
+Time Greedy =  0.0924  ILP =  0.0519
+---------------------
+Number of cliques =  1726
+Greedy FD =  0.008685581933989578  ILP FD =  0.008685581933989578
+Time Greedy =  2.808  ILP =  0.3028
+---------------------
+Number of cliques =  64
+Greedy FD =  0.09230769230769231  ILP FD =  0.09230769230769231
+Time Greedy =  0.0041  ILP =  0.0116
+---------------------
+Number of cliques =  700
+Greedy FD =  0.014265335235378032  ILP FD =  0.014265335235378032
+Time Greedy =  0.4555  ILP =  0.1215
+---------------------
+Number of cliques =  4349
+Greedy FD =  0.002758620689655172  ILP FD =  0.002758620689655172
+Time Greedy =  17.5248  ILP =  0.7704
+---------------------
+Number of cliques =  4312
+Greedy FD =  0.0030141432877347552  ILP FD =  0.0030141432877347552
+Time Greedy =  18.1486  ILP =  0.9316
+---------------------
+Number of cliques =  2487
+Greedy FD =  0.006832797427652733  ILP FD =  0.006832797427652733
+Time Greedy =  6.6437  ILP =  0.4656
+---------------------
+Number of cliques =  426
+Greedy FD =  0.03981264637002342  ILP FD =  0.03981264637002342
+Time Greedy =  0.1728  ILP =  0.0779
+---------------------
+Number of cliques =  2048
+Greedy FD =  0.005856515373352855  ILP FD =  0.005856515373352855
+Time Greedy =  3.898  ILP =  0.3644
+---------------------
+Number of cliques =  326
+Greedy FD =  0.024464831804281346  ILP FD =  0.024464831804281346
+Time Greedy =  0.0991  ILP =  0.055
+---------------------
+Number of cliques =  952
+Greedy FD =  0.011542497376705142  ILP FD =  0.011542497376705142
+Time Greedy =  0.8336  ILP =  0.169
+---------------------
+Number of cliques =  3182
+Greedy FD =  0.0034558592522777255  ILP FD =  0.0034558592522777255
+Time Greedy =  9.3642  ILP =  0.5796
+---------------------
+Number of cliques =  1026
+Greedy FD =  0.012658227848101266  ILP FD =  0.012658227848101266
+Time Greedy =  0.9893  ILP =  0.1884
+---------------------
+Number of cliques =  3917
+Greedy FD =  0.0038284839203675345  ILP FD =  0.0038284839203675345
+Time Greedy =  14.3102  ILP =  0.6879
+---------------------
+Number of cliques =  3297
+Greedy FD =  0.0033353547604608852  ILP FD =  0.0033353547604608852
+Time Greedy =  9.9954  ILP =  0.5857
+---------------------
+Number of cliques =  299
+Greedy FD =  0.04  ILP FD =  0.04
+Time Greedy =  0.0847  ILP =  0.0525
+---------------------
+Number of cliques =  3791
+Greedy FD =  0.0031645569620253164  ILP FD =  0.0031645569620253164
+Time Greedy =  13.3074  ILP =  0.65
+---------------------
+Number of cliques =  3309
+Greedy FD =  0.003323262839879154  ILP FD =  0.003323262839879154
+Time Greedy =  10.0835  ILP =  0.5769
+---------------------
+Number of cliques =  1105
+Greedy FD =  0.009041591320072333  ILP FD =  0.009041591320072333
+Time Greedy =  1.127  ILP =  0.1878
+---------------------
+Number of cliques =  1541
+Greedy FD =  0.007133592736705577  ILP FD =  0.007133592736705577
+Time Greedy =  2.1873  ILP =  0.2687
+---------------------
+Number of cliques =  1218
+Greedy FD =  0.009844134536505332  ILP FD =  0.009844134536505332
+Time Greedy =  1.373  ILP =  0.2142
+---------------------
+Number of cliques =  3337
+Greedy FD =  0.006590772917914919  ILP FD =  0.006590772917914919
+Time Greedy =  10.3237  ILP =  0.6185
+---------------------
+Number of cliques =  4198
+Greedy FD =  0.0028578232912598238  ILP FD =  0.0028578232912598238
+Time Greedy =  18.073  ILP =  0.7311
+---------------------
+Number of cliques =  3019
+Greedy FD =  0.003973509933774834  ILP FD =  0.003973509933774834
+Time Greedy =  8.4129  ILP =  0.5353
+---------------------
+Number of cliques =  3092
+Greedy FD =  0.0038797284190106693  ILP FD =  0.0038797284190106693
+Time Greedy =  8.8314  ILP =  0.594
+---------------------
+Number of cliques =  259
+Greedy FD =  0.03461538461538462  ILP FD =  0.03461538461538462
+Time Greedy =  0.0639  ILP =  0.0459
+---------------------
+Number of cliques =  2788
+Greedy FD =  0.003944065973467192  ILP FD =  0.003944065973467192
+Time Greedy =  7.1513  ILP =  0.4809
+---------------------
+Number of cliques =  2113
+Greedy FD =  0.005203405865657522  ILP FD =  0.005203405865657522
+Time Greedy =  4.1098  ILP =  0.3756
+---------------------
+Number of cliques =  2112
+Greedy FD =  0.005205868433506862  ILP FD =  0.005205868433506862
+Time Greedy =  4.1115  ILP =  0.3645
+---------------------
+Number of cliques =  3021
+Greedy FD =  0.003639973527465255  ILP FD =  0.003639973527465255
+Time Greedy =  8.4215  ILP =  0.5206
+---------------------
+Number of cliques =  1491
+Greedy FD =  0.00871313672922252  ILP FD =  0.00871313672922252
+Time Greedy =  2.0461  ILP =  0.2579
+---------------------
